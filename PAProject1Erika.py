@@ -78,7 +78,6 @@ else:
     freq9 = 0
     freq10 = 0
 
-    n = 0
     for word in words:
         if len(word) == 1:
             freq1 += 1
